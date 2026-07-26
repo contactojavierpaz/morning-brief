@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Javier Morning Brief</title>
+    <description>Tu noticiero matutino personal: inteligencia artificial, salud y el mundo, comentado por dos presentadores cada mañana.
+</description>
+    <link>https://contactojavierpaz.github.io/morning-brief</link>
+    <language>es-MX</language>
+    <itunes:author>Javier Paz</itunes:author>
+    <itunes:summary>Tu noticiero matutino personal: inteligencia artificial, salud y el mundo, comentado por dos presentadores cada mañana.
+</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Javier Paz</itunes:name>
+      <itunes:email>contacto@drjavierpaz.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://contactojavierpaz.github.io/morning-brief/cover.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://contactojavierpaz.github.io/morning-brief/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Javier Morning Brief — 26 de julio</title>
+      <description>Tu noticiero del 26 de julio: lo importante en inteligencia artificial, salud y el mundo.</description>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://contactojavierpaz.github.io/morning-brief/audio/2026-07-26-javier-morning-brief.mp3" length="2411712" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-26-javier-morning-brief.mp3</guid>
+      <itunes:duration>00:06:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -17,29 +17,18 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 28 Jul 2026 11:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 19:37:04 GMT</lastBuildDate>
     <generator>Javier Morning Brief</generator>
     <atom:link href="https://contactojavierpaz.github.io/morning-brief/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Javier Morning Brief — 28 de julio</title>
-      <description>Tu noticiero del 28 de julio: lo importante en inteligencia artificial, salud y el mundo.</description>
-      <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-      <enclosure url="https://contactojavierpaz.github.io/morning-brief/audio/2026-07-28-javier-morning-brief.mp3" length="7668480" type="audio/mpeg"/>
-      <link>https://contactojavierpaz.github.io/morning-brief/audio/2026-07-28-javier-morning-brief.mp3</link>
-      <guid isPermaLink="false">2026-07-28-javier-morning-brief.mp3</guid>
-      <itunes:title>Javier Morning Brief — 28 de julio</itunes:title>
-      <itunes:duration>00:21:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Javier Morning Brief — 27 de julio</title>
-      <description>Tu noticiero del 27 de julio: lo importante en inteligencia artificial, salud y el mundo.</description>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-      <enclosure url="https://contactojavierpaz.github.io/morning-brief/audio/2026-07-27-javier-morning-brief.mp3" length="6820032" type="audio/mpeg"/>
-      <link>https://contactojavierpaz.github.io/morning-brief/audio/2026-07-27-javier-morning-brief.mp3</link>
-      <guid isPermaLink="false">2026-07-27-javier-morning-brief.mp3</guid>
-      <itunes:title>Javier Morning Brief — 27 de julio</itunes:title>
-      <itunes:duration>00:18:57</itunes:duration>
+      <title>Javier Morning Brief — 3 de agosto</title>
+      <description>Tu noticiero del 3 de agosto: lo importante en inteligencia artificial, salud y el mundo.</description>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://contactojavierpaz.github.io/morning-brief/audio/2026-08-03-javier-morning-brief.mp3" length="5670528" type="audio/mpeg"/>
+      <link>https://contactojavierpaz.github.io/morning-brief/audio/2026-08-03-javier-morning-brief.mp3</link>
+      <guid isPermaLink="false">2026-08-03-javier-morning-brief.mp3</guid>
+      <itunes:title>Javier Morning Brief — 3 de agosto</itunes:title>
+      <itunes:duration>00:15:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

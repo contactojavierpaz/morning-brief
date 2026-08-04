@@ -17,9 +17,20 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 03 Aug 2026 20:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:46:56 GMT</lastBuildDate>
     <generator>Javier Morning Brief</generator>
     <atom:link href="https://contactojavierpaz.github.io/morning-brief/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Javier Morning Brief — 4 de agosto</title>
+      <description>Tu noticiero del 4 de agosto: lo importante en inteligencia artificial, salud y el mundo.</description>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://contactojavierpaz.github.io/morning-brief/audio/2026-08-04-javier-morning-brief.mp3" length="6485760" type="audio/mpeg"/>
+      <link>https://contactojavierpaz.github.io/morning-brief/audio/2026-08-04-javier-morning-brief.mp3</link>
+      <guid isPermaLink="false">2026-08-04-javier-morning-brief.mp3</guid>
+      <itunes:title>Javier Morning Brief — 4 de agosto</itunes:title>
+      <itunes:duration>00:18:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Javier Morning Brief — 3 de agosto</title>
       <description>Tu noticiero del 3 de agosto: lo importante en inteligencia artificial, salud y el mundo.</description>
